@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finishing up my degree.
+- 🔭 I’m currently working on finishing my educational mini-game.
 - 🌱 I’m currently learning GDScript and Web Dev.
 - 👯 I’m looking to collaborate on games or sustainability projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about film.
+- 💬 Ask me about film or video games.
 - 📫 How to reach me: Send me a msg at my Linkedin. :)
 - 😄 Pronouns: She
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love unicycling and juggling!
 
