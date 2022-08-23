@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finishing my educational mini-game.
+- 🔭 I’m currently working on an educational mini-game.
 - 🌱 I’m currently learning GDScript and Web Dev.
 - 👯 I’m looking to collaborate on games or sustainability projects.
 - 💬 Ask me about film or video games.
